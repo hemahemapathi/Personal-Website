@@ -1,4 +1,4 @@
-# 🚀 Minimal Portfolio - Next-Gen Developer Showcase
+# 🚀 My Personal Portfolio - Next-Gen Developer Showcase
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 **A cutting-edge, fully responsive portfolio showcasing modern web development excellence**
 
-[🌐 Live Demo](https://your-portfolio-url.com) • [📱 Mobile Preview](https://your-portfolio-url.com) • [📧 Contact](mailto:hemahemapathi2001@gmail.com)
+[🌐 Live Demo] (https://hemapathi-portfolio.netlify.app) • [📧 Contact](mailto:hemahemapathi2001@gmail.com)
 
 </div>
 
@@ -304,8 +304,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Hemapathi B**  
 *Full Stack Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemapathi-b-17b505257)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hemahemapathi)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:hemahemapathi2001@gmail.com)
 
 *"Building the future, one component at a time"*
