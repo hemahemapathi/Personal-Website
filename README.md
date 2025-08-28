@@ -1,4 +1,4 @@
-# 🚀 My Personal Portfolio - Next-Gen Developer Showcase
+# 🚀 My Portfolio - Next-Gen Developer Showcase
 
 <div align="center">
 
