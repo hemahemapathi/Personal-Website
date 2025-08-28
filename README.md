@@ -9,7 +9,8 @@
 
 **A cutting-edge, fully responsive portfolio showcasing modern web development excellence**
 
-[🌐 Live Demo](https://hemapathi-portfolio.netlify.app)  • [📧 Contact](mailto:hemahemapathi2001@gmail.com)
+[🌐 Live Demo](https://hemapathi-portfolio.netlify.app)  • [📧 Contact] (hemahemapathi2001@gmail.com)
+)
 
 </div>
 
