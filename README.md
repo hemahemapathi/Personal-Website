@@ -80,7 +80,7 @@ This project is configured for Netlify.
 **Hemapathi B** — Full Stack Developer
 
 - Email: hemahemapthi2001@gmail.com
-- LinkedIn: [linkedin.com/in/hemapathi-b](https://linkedin.com/in/hemapathi-b)
+- LinkedIn: [linkedin.com/in/hemapathi-b](https://www.linkedin.com/in/hemapathi-b-560489381)
 - GitHub: [github.com/hemahemapathi](https://github.com/hemahemapathi)
 
 ---
