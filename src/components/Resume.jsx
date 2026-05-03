@@ -104,7 +104,7 @@ const Resume = ({ onPrev, onNext }) => {
               <p style={{ margin: '0 0 0.75rem', fontSize: '0.9rem', color: 'var(--text-light)' }}>MERN Stack Developer | Full Stack Web Developer</p>
               <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: isMobile ? '0.5rem' : '1.5rem' }}>
                 {[
-                  { icon: <HiLocationMarker size={13} />, text: 'Sivakasi, TamilNadu' },
+                  { icon: <HiLocationMarker size={13} />, text: 'TamilNadu , India' },
                   { icon: <HiPhone size={13} />, text: '+91-8610237049' },
                   { icon: <HiMail size={13} />, text: 'hemahemapthi2001@gmail.com' },
                   { icon: <FiGlobe size={13} />, text: 'Portfolio' },
@@ -128,8 +128,8 @@ const Resume = ({ onPrev, onNext }) => {
             <Section title="Education">
               <div style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.25rem' }}>
                 <div>
-                  <p style={{ margin: '0 0 0.1rem', fontSize: '0.88rem', fontWeight: '600', color: 'var(--text)' }}>Bachelor of Engineering (B.E.) in Computer Science and Engineering (CSE)</p>
-                  <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--text-light)' }}>Kathir College of Engineering</p>
+                  <p style={{ margin: '0 0 0.1rem', fontSize: '0.88rem', fontWeight: '600', color: 'var(--text)' }}>Bachelor of Engineering (B.E) in Computer Science and Engineering (CSE)</p>
+                  <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--text-light)' }}>Kathir College of Engineering , Coimbatore</p>
                 </div>
                 <span style={{ fontSize: '0.8rem', color: 'var(--accent)', fontWeight: '600', whiteSpace: 'nowrap' }}>July 2019 – July 2023</span>
               </div>
@@ -148,9 +148,9 @@ const Resume = ({ onPrev, onNext }) => {
               <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: '0.4rem 1rem' }}>
                 {[
                   { label: 'Front-end Development', value: 'HTML, CSS, Bootstrap, JavaScript(ES6+), React.js, Tailwind CSS' },
-                  { label: 'Back-end Development', value: 'Node.js, Express.js, RESTful APIs, JWT, OAuth2' },
+                  { label: 'Back-end Development', value: 'Node.js, Express.js, JWT, OAuth2' },
                   { label: 'Database Management', value: 'MongoDB (NoSQL), MySQL' },
-                  { label: 'Tools & Technologies', value: 'Git, GitHub, Netlify, Render' },
+                  { label: 'Tools & Technologies', value: 'Git, GitHub, npm, pnpm, Netlify, Render' },
                 ].map((s) => (
                   <div key={s.label} style={{ fontSize: '0.82rem' }}>
                     <span style={{ fontWeight: '700', color: 'var(--text)' }}>• {s.label}: </span>
